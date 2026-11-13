@@ -1,0 +1,17 @@
+# Índice vectorial generado por NB5
+faiss_index_noticias/
+
+# Secretos y entornos
+.env
+venv/
+.venv/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,28 @@
+# Proyecto Júpiter — dependencias (Python 3.10.11)
+
+# Datos
+numpy==2.2.6
+pandas==2.3.3
+pyarrow==24.0.0
+
+# ML clásico
+scikit-learn==1.7.2
+
+# Visualización
+matplotlib==3.10.9
+seaborn==0.13.2
+jinja2==3.1.6
+
+# Base de datos (NB2)
+SQLAlchemy==2.0.50
+PyMySQL==1.2.0
+
+# NLP / utilidades (NB3)
+emoji==2.15.0
+
+# Deep Learning (NB4)
+tensorflow==2.21.0
+keras==3.12.3
+
+# Entorno notebook
+ipython==8.39.0
